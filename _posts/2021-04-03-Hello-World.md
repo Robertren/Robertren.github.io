@@ -8,7 +8,7 @@ header-img: img/post-bg-cook.jpg
 catalog: true
 tags:
     - 随笔/Random Thoughts
-    - iOS
+    - 其他/Other
 ---
 
 ## Hello World
