@@ -8,7 +8,6 @@ header-img: img/post-bg-desk.jpg
 catalog: true
 tags:
     - 随笔/Random Thoughts
-    - 其他/Other
     - 创业/StartUp 
 ---
 
